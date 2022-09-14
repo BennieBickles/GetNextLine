@@ -13,19 +13,13 @@
 ## About The Project
 
 Function name       |  get_next_line
-:-------------|:-------------
 Prototype        | char *get_next_line(int fd);
-:-------------|:-------------
 Turn in files | get_next_line.c, get_next_line.h
               | get_next_line_utils.c
-:------------ |:-------------	
 Parameters    | File descriptor to read from
-:------------|:--------------
 Return value | Read line: correct behavior
              | NULL: nothing else to read or an error occured
-:-----------|:--------------------
 External functs	| read, malloc, free
-:------------|:-------------
 Description | Write a function which returns a
 	     | line read from a file descriptor.
 
