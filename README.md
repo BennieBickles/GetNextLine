@@ -15,6 +15,8 @@
 Get next line is the second project at 42 school and is a function that reads a file from a file descriptor and allows you to read a line ending with a newline character. When calling the function again on the same file, it grabs the next line in the file descriptor.
 The projects is about learning dynamic allocation and understanding when to free and allocate memory preventing leaks.
 
+______________________________________________________
+
 ![description](https://zupimages.net/up/22/37/sa35.png)
 
 * [`Image to ASCII Art`](https://emojicombos.com/dot-art-generator)
