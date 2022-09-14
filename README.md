@@ -12,6 +12,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Function            |  Description
+:-------------------|:---------------
 Function name       |  get_next_line
 Prototype        | char *get_next_line(int fd);
 Turn in files | get_next_line.c, get_next_line.h
