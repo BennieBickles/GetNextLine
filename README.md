@@ -17,6 +17,8 @@ The projects is about learning dynamic allocation and understanding when to free
 
 ______________________________________________________
 
+## Usefull links
+
 ![description](https://zupimages.net/up/22/37/sa35.png)
 
 * [`Image to ASCII Art`](https://emojicombos.com/dot-art-generator)
