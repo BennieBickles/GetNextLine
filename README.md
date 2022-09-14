@@ -12,18 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Function            |  Description
-:-------------------|:---------------
-Function name       |  get_next_line
-Prototype        | char *get_next_line(int fd);
-Turn in files | get_next_line.c, get_next_line.h
-                get_next_line_utils.c
-Parameters    | File descriptor to read from
-Return value | Read line: correct behavior
-               NULL: nothing else to read or an error occured
-External functs	| read, malloc, free
-Description | Write a function which returns a
-	      line read from a file descriptor.
+![description](https://zupimages.net/up/22/37/sa35.png)
 
 * [`Image to ASCII Art`](https://emojicombos.com/dot-art-generator)
 * [`Text to ASCII Art`](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
