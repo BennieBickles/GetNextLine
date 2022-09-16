@@ -39,7 +39,7 @@ ______________________________________________________
 	</div>
 	<div>
 		<strong> Bennie Bickles </strong>
-		<br>
+		<br />
 	<div>
 	<div>
     	</div> 
