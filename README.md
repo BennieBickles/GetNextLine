@@ -39,8 +39,8 @@ ______________________________________________________
 	</div>
 	<div>
 		<ul>
-		<li>Line 1</li> Bennie Bickles
-		<li>Line 2</li>
+		<li>Bennie Bickles</li>  
+		<li>       </li>
 		</ul>
 	<div>
     	</div> 
