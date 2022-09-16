@@ -1,4 +1,6 @@
-![image](https://zupimages.net/up/22/37/atpo.png)
+<p align="center">
+  <img src="https://zupimages.net/up/22/37/atpo.png" />
+</p>
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/BennieBickles/GetNextLine?color=blueviolet" />
