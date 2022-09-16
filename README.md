@@ -39,6 +39,8 @@ ______________________________________________________
 	</div>
 	<div>
 		<strong> Bennie Bickles </strong>
+	<div>
+	<div>
     	</div> 
     	<div>
   	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="LinkedIn" height="60" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png"></a>
