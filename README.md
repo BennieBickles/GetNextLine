@@ -38,9 +38,10 @@ ______________________________________________________
 	<img height="222em" src="https://zupimages.net/up/22/37/nw50.png">
 	</div>
 	<div>
-		<strong> Bennie Bickles </strong>
-		<br />
-	<div>
+		<ul>
+		<li>Line 1</li> Bennie Bickles
+		<li>Line 2</li>
+		</ul>
 	<div>
     	</div> 
     	<div>
