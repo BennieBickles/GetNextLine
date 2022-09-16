@@ -40,8 +40,6 @@ ______________________________________________________
 	<div>
 		<strong> Bennie Bickles </strong>
 
-    	</div>
-    	<div>
   	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="LinkedIn" height="60" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png"></a>
 	<a href="https://youtu.be/GJ0mO8P37Eg" target="_blank"><img align="center" alt="Instagram" height="60" src="https://user-images.githubusercontent.com/81205527/157161841-19ec3ab2-2c8f-4ec0-8b9d-3cd885256098.png"></a>
 	<a href = "https://youtu.be/_yrkWU6TDwQ"> <img align="center" alt="Gmail - benniebickles@proton.me" height="60" src="https://user-images.githubusercontent.com/81205527/157161831-eb9dffee-404b-4ffe-b0af-34671219f7fb.png"></a>
