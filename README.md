@@ -23,8 +23,29 @@ ______________________________________________________
 
 ______________________________________________________
 
-## Useful links
+## :pushpin: Useful links
 
 * [`Image to ASCII Art`](https://emojicombos.com/dot-art-generator)
 * [`Text to ASCII Art`](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [`Get next line  subject in english`](https://github.com/Surfi89/42cursus/blob/main/Subject%20PDFs/01_get_next_line_en.pdf)
+* [`Get next line Tester`](https://github.com/Tripouille/gnlTester)
+
+______________________________________________________
+
+<h2  align="center" id="author">Author</h2>
+<div align="center">
+	<div>
+	<img height="222em" src="https://avatars.githubusercontent.com/u/110304548?v=4">
+	</div>
+	<div>
+		<strong> Bennie Bickles </strong>
+
+:wave: How to reach me:
+    	</div>
+    	<div>
+  	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="LinkedIn" height="60" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png"></a>
+	<a href="https://www.instagram.com/millou_l/?hl=fr" target="_blank"><img align="center" alt="Instagram" height="60" src="https://user-images.githubusercontent.com/81205527/157161841-19ec3ab2-2c8f-4ec0-8b9d-3cd885256098.png"></a>
+	<a href = "mailto:benniebickles@proton.me"> <img align="center" alt="Gmail - benniebickles@proton.me" height="60" src="https://user-images.githubusercontent.com/81205527/157161831-eb9dffee-404b-4ffe-b0af-34671219f7fb.png"></a>
+	<a href="discordapp.com/users/yourID" target="_blank"><img align="center" alt="Discord - beckerzz#3614" height="60" src="https://user-images.githubusercontent.com/81205527/157161820-de88dc63-61a3-4c9f-9445-07ac98bf0bc2.png"></a>
+	</div>
+</div>
