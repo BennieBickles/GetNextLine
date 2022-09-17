@@ -34,7 +34,7 @@ ______________________________________________________
 
 <div align="center">
 	<div>
-	<img height="222em" src="https://zupimages.net/up/22/37/nw50.png">
+	<img height="222em" src="https://zupimages.net/up/22/37/w8q5.png">
 	</div>
 	<div>
 		<strong> Bennie Bickles </strong> 
