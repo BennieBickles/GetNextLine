@@ -32,7 +32,6 @@ ______________________________________________________
 
 ______________________________________________________
 
-<h2  align="center" id="author">Author</h2>
 <div align="center">
 	<div>
 	<img height="222em" src="https://zupimages.net/up/22/37/nw50.png">
