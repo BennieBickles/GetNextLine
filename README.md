@@ -29,6 +29,8 @@ ______________________________________________________
 * [`Text to ASCII Art`](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [`Get next line  subject in english`](https://github.com/Surfi89/42cursus/blob/main/Subject%20PDFs/01_get_next_line_en.pdf)
 * [`Get next line Tester`](https://github.com/Tripouille/gnlTester)
+* [`42 Header`](https://github.com/42Paris/42header)
+* [`42 Norminette`](https://github.com/alexandregv/norminette-vim)
 
 ______________________________________________________
 
